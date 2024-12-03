@@ -1,0 +1,31 @@
+/* Buttons for Cards */
+.addToCart-btn {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #dfbf09;
+  cursor: pointer;
+}
+.addToCart-btn:active {
+  background-color: bisque;
+}
+/* Buttons for Cart */
+.remove-btn {
+  cursor: pointer;
+  padding: 0.5rem;
+  background-color: yellow;
+}
+.remove-btn:active {
+  background-color: red;
+}
+.checkOut-btn {
+  background-color: yellowgreen;
+  padding: 0.5rem;
+  cursor: pointer;
+  width: 50%;
+}
+.search-btn {
+  background-color: #dfbf09;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 0 0.8rem;
+}

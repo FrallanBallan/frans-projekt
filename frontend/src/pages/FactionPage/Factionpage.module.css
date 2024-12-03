@@ -1,0 +1,8 @@
+.factionWrap {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 4rem;
+  align-items: center;
+  justify-content: center;
+}

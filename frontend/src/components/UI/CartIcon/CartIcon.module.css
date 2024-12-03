@@ -1,0 +1,23 @@
+.cartSymbol {
+  position: relative;
+  width: 2rem; /* Ensure the container has fixed dimensions */
+  height: 2rem; /* Adjust the size as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cartCounter {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+  background-color: aliceblue;
+  border-radius: 100%;
+  width: 1rem;
+  height: 1rem;
+  font-size: 0.75rem; /* Ensure the text fits inside */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* <div className='absolute bottom-5 left-4 bg-orange-400 rounded-full text-center w-6 h-6'> */

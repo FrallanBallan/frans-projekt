@@ -1,0 +1,11 @@
+.factionBanner {
+  padding: 2rem;
+  background-color: yellowgreen;
+  border: 3px solid goldenrod;
+  cursor: pointer;
+  font-size: 1.2rem;
+  border-radius: 2rem;
+  min-width: 200px;
+  text-align: center;
+  letter-spacing: 1rem;
+}

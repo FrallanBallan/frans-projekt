@@ -1,0 +1,39 @@
+.cartContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem;
+  background-color: #0e3f0d; /* Darker green for a polished look */
+  border: 2px solid #dfbf09; /* Warhammer-style yellow */
+  margin: 2rem auto; /* Center the cart on the page */
+  max-width: 600px; /* Restrict width for readability */
+  border-radius: 8px; /* Slightly rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Add some depth */
+  color: white; /* White text for contrast */
+  min-height: 400px;
+}
+.shoppingItem {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr auto; /* Namn får mer plats, pris och material mindre */
+  margin-top: 1rem;
+  padding: 0.5rem;
+  gap: 2rem; /* Mellanrum mellan kolumner */
+  text-align: left; /* Justera texten till vänster */
+  align-items: center; /* Vertikal centrering */
+  border: 1px, solid, rgb(228, 171, 14);
+}
+.shoppingItem:hover {
+  background-color: #2d6628;
+}
+
+.checkOut {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  /* & button {
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: yellowgreen;
+  } */
+}
