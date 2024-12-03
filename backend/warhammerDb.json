@@ -6,6 +6,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "High Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/rxTuO0t.jpeg"
     },
     {
@@ -14,6 +15,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "High Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/rxTuO0t.jpeg"
     },
     {
@@ -22,6 +24,7 @@
       "price": 45,
       "material": "Metal",
       "faction": "High Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/rxTuO0t.jpeg"
     },
     {
@@ -30,6 +33,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "High Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/rxTuO0t.jpeg"
     },
     {
@@ -38,6 +42,7 @@
       "price": 30,
       "material": "Metal",
       "faction": "High Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/rxTuO0t.jpeg"
     },
 
@@ -47,6 +52,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "Dark Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/johcziJ.jpeg"
     },
     {
@@ -55,6 +61,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "Dark Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/johcziJ.jpeg"
     },
     {
@@ -63,6 +70,7 @@
       "price": 45,
       "material": "Metal",
       "faction": "Dark Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/johcziJ.jpeg"
     },
     {
@@ -71,6 +79,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "Dark Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/johcziJ.jpeg"
     },
     {
@@ -79,6 +88,7 @@
       "price": 30,
       "material": "Metal",
       "faction": "Dark Elves",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/johcziJ.jpeg"
     },
 
@@ -88,6 +98,7 @@
       "price": 30,
       "material": "Metal",
       "faction": "Orcs & Goblins",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/zGTfgsO.jpeg"
     },
     {
@@ -96,6 +107,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "Orcs & Goblins",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/zGTfgsO.jpeg"
     },
     {
@@ -104,6 +116,7 @@
       "price": 25,
       "material": "Plastic",
       "faction": "Orcs & Goblins",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/zGTfgsO.jpeg"
     },
     {
@@ -112,6 +125,7 @@
       "price": 50,
       "material": "Metal",
       "faction": "Orcs & Goblins",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/zGTfgsO.jpeg"
     },
     {
@@ -120,6 +134,7 @@
       "price": 60,
       "material": "Plastic",
       "faction": "Orcs & Goblins",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/zGTfgsO.jpeg"
     },
 
@@ -129,6 +144,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -137,6 +153,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -145,6 +162,7 @@
       "price": 50,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -153,6 +171,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -161,6 +180,7 @@
       "price": 30,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -169,6 +189,7 @@
       "price": 25,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -177,6 +198,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -185,6 +207,7 @@
       "price": 70,
       "material": "Plastic",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -193,6 +216,7 @@
       "price": 80,
       "material": "Plastic",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
     {
@@ -201,6 +225,7 @@
       "price": 50,
       "material": "Metal",
       "faction": "Dwarfs",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Q3VOj4O.png"
     },
 
@@ -210,6 +235,7 @@
       "price": 30,
       "material": "Metal",
       "faction": "Lizardmen",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/vVxmPDi.jpeg"
     },
     {
@@ -218,6 +244,7 @@
       "price": 45,
       "material": "Metal",
       "faction": "Lizardmen",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/vVxmPDi.jpeg"
     },
     {
@@ -226,6 +253,7 @@
       "price": 60,
       "material": "Metal",
       "faction": "Lizardmen",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/vVxmPDi.jpeg"
     },
     {
@@ -234,6 +262,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "Lizardmen",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/vVxmPDi.jpeg"
     },
     {
@@ -242,6 +271,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "Lizardmen",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/vVxmPDi.jpeg"
     },
     {
@@ -250,6 +280,7 @@
       "price": 60,
       "material": "Metal",
       "faction": "Lizardmen",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/vVxmPDi.jpeg"
     },
     {
@@ -258,6 +289,7 @@
       "price": 80,
       "material": "Plastic",
       "faction": "Lizardmen",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/vVxmPDi.jpeg"
     },
 
@@ -267,6 +299,7 @@
       "price": 45,
       "material": "Metal",
       "faction": "Bretonnia",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/S33sukc.jpeg"
     },
     {
@@ -275,6 +308,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "Bretonnia",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/S33sukc.jpeg"
     },
     {
@@ -283,6 +317,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "Bretonnia",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/S33sukc.jpeg"
     },
     {
@@ -291,6 +326,7 @@
       "price": 70,
       "material": "Plastic",
       "faction": "Bretonnia",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/S33sukc.jpeg"
     },
     {
@@ -299,6 +335,7 @@
       "price": 50,
       "material": "Metal",
       "faction": "Bretonnia",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/S33sukc.jpeg"
     },
 
@@ -308,6 +345,7 @@
       "price": 35,
       "material": "Metal",
       "faction": "Empire",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Bk8JS21.jpeg"
     },
     {
@@ -316,6 +354,7 @@
       "price": 30,
       "material": "Metal",
       "faction": "Empire",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Bk8JS21.jpeg"
     },
     {
@@ -324,6 +363,7 @@
       "price": 40,
       "material": "Metal",
       "faction": "Empire",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Bk8JS21.jpeg"
     },
     {
@@ -332,6 +372,7 @@
       "price": 70,
       "material": "Plastic",
       "faction": "Empire",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Bk8JS21.jpeg"
     },
     {
@@ -340,6 +381,7 @@
       "price": 45,
       "material": "Metal",
       "faction": "Empire",
+      "inStock": 921,
       "img_url": "https://i.imgur.com/Bk8JS21.jpeg"
     }
   ]

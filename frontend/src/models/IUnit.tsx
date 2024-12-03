@@ -4,5 +4,6 @@ export interface IUnit {
   price: number;
   material: string;
   faction: string;
+  inStock: number;
   img_url: string;
 }
